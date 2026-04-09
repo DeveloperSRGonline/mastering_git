@@ -1,4 +1,4 @@
-## Heyoo everyone , welcome to my git guide!
+## Welcome to Git Guide!
 
 - This is comming from `dev-shivam`
 - I'm adding this from `feature-branch`
